@@ -7,7 +7,7 @@ import (
 )
 
 func bytesExample() {
-	fmt.Println("\nBYTES - DATA TYPE EXAMPLE\n")
+	fmt.Print("\nBYTES - DATA TYPE EXAMPLE\n\n")
 
 	// The "byte" type in Go:
 	// -------------------------
