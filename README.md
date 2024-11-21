@@ -45,7 +45,9 @@ To get started with this repository, follow these steps:
 
 1. **Clone the repository:**
    
-     `git clone https://github.com/yourusername/go-practices.git`
+     ```
+      git clone https://github.com/yourusername/go-practices.git
+     ```
 
 3. **Navigate to the project directory:**
 
@@ -53,7 +55,9 @@ To get started with this repository, follow these steps:
 
 5. **Run the examples:** Each topic has its own directory with example code. You can run the code using:
   
-   `go run main.go`
+   ```
+   go run main.go
+   ```
 
 ## Usage
 
